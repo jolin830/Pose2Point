@@ -1,0 +1,12 @@
+feeder: feeders.feeder_ntu.Feeder
+train_feeder_args:
+  data_path: ./data/ntu120/NTU120_CSub.npz
+  split: train
+  window_size: 64
+  p_interval: [0.5, 1]
+
+test_feeder_args:
+  data_path: ./data/ntu120/NTU120_CSub.npz
+  split: test
+  window_size: 64
+  p_interval: [0.5, 1]
