@@ -10,7 +10,7 @@
 </p>
 
 <div align=center>
-<img src="https://github.com/jolin830/Pose2Point/tree/main/figs/main_model.pdf"/>
+<img src="https://github.com/jolin830/Pose2Point/tree/main/figs/P2P.png"/>
 </div>
 
 
