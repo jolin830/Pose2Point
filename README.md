@@ -1,12 +1,12 @@
 <p align="center">
   <h1 align="center">Pose2Point: Bridging Human Poses and Point Clouds for Unified Action Recognition</h1>
-  <p align="center">
+<!--   <p align="center">
     <a href="https://scholar.google.com/citations?user=kU4rtNQAAAAJ&hl=en">Jiaying Lin</a></sup>,
     <a href="https://scholar.google.com/citations?user=goMNmRIAAAAJ&hl=en">Jiajun Weng</a></sup>,
     <a href="https://scholar.google.com.hk/citations?user=woX_4AcAAAAJ&hl=zh-CN">Mengyuan Liu</a></sup>
     <br>
     </sup> Peking University, Tsinghua University
-  </p>
+  </p> -->
 </p>
 
 <div align=center>
